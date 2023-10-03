@@ -1,0 +1,56 @@
+body {
+    background-color: #584b16;
+    color: #ebce55
+}
+
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #da9232;
+}
+
+.container {
+    background-image: url(apero.jpg);
+    opacity: 90%;
+}
+
+.title {
+    color: #262928;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: space-between;
+}
+
+.logo {
+    color: #352006;
+}
+
+.entete {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.entete a {
+    color: #262928;
+    margin-right: 2rem;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.resto {
+    background-image: url(tchin.jpg);
+    background-position: center;
+    height: 200px;
+}
+
+.resto1 {
+    background-image: url(ambiance.jpg);
+    background-position: center;
+    height: 200px;
+}
+
+.resto2 {
+    background-image: url(marcelle.jpg);
+    background-position: center;
+    height: 200px;
+}
